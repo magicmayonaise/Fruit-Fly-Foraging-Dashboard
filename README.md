@@ -67,3 +67,20 @@ Made for computational neuroethology & connectomics-inspired AI ⚛️
 ---
 
 Made with 🧬 love and PyTorch RL 🧠
+
+
+## 🖼️ Screenshots
+
+![Dashboard Screenshot](docs/dashboard_screenshot.png)
+
+## 🎥 Trajectory Demo
+
+> This is a placeholder — replace with your own `.mp4` from fly tracking or RL rollout.
+
+```html
+<video width="100%" controls>
+  <source src="docs/trajectory_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
